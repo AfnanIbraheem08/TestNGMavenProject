@@ -47,7 +47,7 @@ public class ExcelUtilis {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-	}
+	}    
 
 	// This method is to read the test data from the Excel cell, in this we are
 	// passing parameters as Row num and Col num
