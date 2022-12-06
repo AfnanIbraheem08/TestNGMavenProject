@@ -42,7 +42,7 @@ import utilis.Driver;
 	  @DataProvider
 	  public String[] searchItems() {
 		  String[] items = new String[6];
-		  items[0] = "coffee mug";
+		  items[0] = "coffee mug1";
    	      items[1] = "pretty coffee mug";
 		  items[2] = "ugly coffee mug";
 		  items[3] = "funny coffee mug";
